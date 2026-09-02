@@ -38,7 +38,7 @@ export default defineConfig({
       copyright: '© 2026 – Серёжа котиков'
   },
     editLink: {
-      pattern: 'https://github.com/NoMorelov3/Community-WikiCatcraft/blob/main/:path',
+      pattern: 'https://github.com/4VOLFY/Community-WikiCatcraft/blob/main/:path',
       text: 'Редактировать эту страницу на GitHub'
     },
 
@@ -96,7 +96,7 @@ export default defineConfig({
 
     socialLinks: [
       
-      { icon: 'github', link: 'https://github.com/NoMorelov3/Community-WikiCatcraft' },
+      { icon: 'github', link: 'https://github.com/4VOLFY/Community-WikiCatcraft' },
       { icon: 'spotify', link: 'https://open.spotify.com/playlist/05N92YWF1TCGfJMyH0gzHi?si=dfae0a5447b24a2a' }
     ]
   }
