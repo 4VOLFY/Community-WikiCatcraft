@@ -39,7 +39,8 @@ features:
       avatar: 'https://vzge.me/face/512/Szarkan?y=-40',
       name: 'Szarkan',
       title: 'Серёжа, создатель оригинальной вики',
-      links: [{ url: 'https://discord.gg/AcrRqkV7vt', type: 'discord' }, { url: 'https://github.com/szarkans', type: 'github'}]
+      links: [
+        { url: 'https://discord.gg/AcrRqkV7vt', type: 'discord' }, { url: 'https://github.com/szarkans', type: 'github'}]
     }
   ]
 
@@ -49,7 +50,7 @@ features:
       name: 'dark_moooon',
       title: 'мой любимый',
       links: [{ url: 'https://discord.gg/zybj3EAsQg', type: 'discord' }]
-    }
+    },
   ]
 
   // Логика плавного параллакса для Солнца
