@@ -306,6 +306,7 @@ features:
 .icon-svg {
   width: 22px;
   height: 22px;
+  filter: brightness(0) invert(1);
 }
 
 .member-links svg {
